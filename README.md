@@ -4,11 +4,11 @@ This is a blank template for making web applications with ASP.Net.  All the unne
 
 To use this template: 
 
-1. Clone or download the repo to your machine.  
+* Clone or download the repo to your machine.  
 
-2. Ensure you have the latest version of .NET Core SDK installed.  If not, a downlad for the windows command line can be found here: https://www.microsoft.com/net/core#windowscmd 
+* Ensure you have the latest version of .NET Core SDK installed.  If not, a downlad for the windows command line can be found here: https://www.microsoft.com/net/core#windowscmd 
 
-3. Run the following commands:
+* Run the following commands:
 
 `dotnet restore`
 
@@ -16,4 +16,4 @@ To use this template:
 
 `dotnet run`
 
-4. Open 'localhost:5000' in your favourite browser.
+* Open 'localhost:5000' in your favourite browser.
