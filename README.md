@@ -1,6 +1,6 @@
 # Handy Web App Template
 
-This is a blank template for making web applications with ASP.Net.  All the unnecessary fluff that comes with the default dotnet web app structure has been removed, while a simplified working template remains intact.
+This is a blank template for creating web applications with ASP.NET.  All the unnecessary fluff that comes with the default dotnet web app structure has been removed, while a simplified working template remains intact as the perfect starting point for a new web app.
 
 To use this template: 
 
