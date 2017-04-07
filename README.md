@@ -1,15 +1,19 @@
 # Blank Web App Template
 
-This repository serves as a blank template for making web applications with ASP.Net.  I've removed all the unnecessary fluff that comes with the default dotnet web app structure while leaving a working template structure intact.
+This is a blank template for making web applications with ASP.Net.  All the unnecessary fluff that comes with the default dotnet web app structure has been removed, while a simplified working template remains intact.
 
-In order to utilise this template to start your ASP.Net web app from an ideal starting point, simply clone or download the repo to your machine.  Ensuring you have the dotnet framework installed, prepare the dependencies with...
+To use this template: 
 
->dotnet restore
+* Clone or download the repo to your machine.  
 
-Compile the project with...
+* Ensure you have the latest version of .NET Core SDK installed.  If not, a downlad for the windows command line can be found here: https://www.microsoft.com/net/core#windowscmd 
 
-> dotnet build
+* Run the following commands:
 
-Finally, to run it simply use
+`dotnet restore`
 
-> dotnet run
+`dotnet build`
+
+`dotnet run`
+
+* Open 'localhost:5000' in your favourite browser.
