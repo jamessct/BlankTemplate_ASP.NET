@@ -44,7 +44,7 @@ namespace TestApp
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseExceptionHandler("/Main/Error");
             }
 
             app.UseStaticFiles();

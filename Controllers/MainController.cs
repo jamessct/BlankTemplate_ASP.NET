@@ -10,9 +10,14 @@ namespace WebApp.Controllers
             return View();
         }   
 
-        public string Welcome(string name, int ID = 1)
+        public IActionResult About()
         {
-            return HtmlEncoder.Default.Encode($"Hello {name}, ID is: {ID}");
+            return View();
         }    
+
+        public IActionResult Error()
+        {
+            return View();
+        }
     }
 }
