@@ -5,13 +5,11 @@ This is a blank template for creating web applications with ASP.NET.  All the un
 To use this template: 
 
 * Clone or download the repo to your machine.  
-
 * Ensure you have the latest version of .NET Core SDK installed.  If not, a download for the installer can be found here: https://www.microsoft.com/net/core#windowscmd 
 
 * Run the following commands:
 
 `dotnet restore`
-
 `dotnet build`
 
 `dotnet run`
