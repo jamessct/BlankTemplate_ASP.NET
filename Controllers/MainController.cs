@@ -1,9 +1,9 @@
 using System.Text.Encodings.Web;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TestApp.Controllers
+namespace WebApp.Controllers
 {
-    public class TestController : Controller
+    public class MainController : Controller
     {
         public IActionResult Index()
         {

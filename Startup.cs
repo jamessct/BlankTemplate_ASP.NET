@@ -53,7 +53,7 @@ namespace TestApp
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Test}/{action=Index}/{id?}");
+                    template: "{controller=Main}/{action=Index}/{id?}");
             });
         }
     }
