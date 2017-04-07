@@ -6,7 +6,7 @@ To use this template:
 
 * Clone or download the repo to your machine.  
 
-* Ensure you have the latest version of .NET Core SDK installed.  If not, a downlad for the windows command line can be found here: https://www.microsoft.com/net/core#windowscmd 
+* Ensure you have the latest version of .NET Core SDK installed.  If not, a download for the installer can be found here: https://www.microsoft.com/net/core#windowscmd 
 
 * Run the following commands:
 
